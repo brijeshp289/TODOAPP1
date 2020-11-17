@@ -1,4 +1,4 @@
-# sqflite_project
+# Todo app with sqflite_project
 
 A new Flutter project.
 
